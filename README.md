@@ -4,6 +4,8 @@ Noah Pratt
 
 ## Projects
 
+<img src="mm.png" width="500px" />
+
 ### Music Metrics
 #### Repo: [prattnj/music-metrics](https://github.com/prattnj/music-metrics)
 #### Website: [musicmetrics.app](https://musicmetrics.app)
@@ -11,17 +13,23 @@ A web application that tracks a user's Spotify listening and computes interestin
 MySQL with good database design principles to store listening history as well as song and album metadata.
 Frontend uses ReactJS to provide a clean, seamless web UI for users to see their stats among other things.
 
+<img src="ghp.png" width="500px" />
+
 ### GoatHouse Pizza
 #### Repo: [prattnj/goathousepizza](https://github.com/prattnj/goathousepizza)
 #### Website: [goathousepizza.com](https://goathousepizza.com)
 A website for a brick oven pizza business that I helped start in 2022. Uses Vanilla JavaScript to provide an ordering platform for
 customers, integrating Microsoft Azure Functions along with Google's Calendar API to schedule orders.
 
+<img src="np.png" width="500px" />
+
 ### Interactive Portfolio
 #### Repo: [prattnj/noahpratt](https://github.com/prattnj/noahpratt)
 #### Website: [noahpratt.com](https://noahpratt.com)
 A website created as a way to visualize my resume. Uses 3JS to design and render interactive polyhedrons that display information.
 Additionally, uses Vite as a JavaScript build tool and other basic development tools like Git.
+
+<img src="chess.png" width="300px" />
 
 ### Chess Application
 #### Repo: private for academic integrity, email for access
