@@ -37,3 +37,10 @@ Additionally, uses Vite as a JavaScript build tool and other basic development t
 Created by professors and TA's including myself as a project for the students of a Software Engineering class at BYU. Uses
 good software design principles and modern technologies to implement a fully functional chess server and client, both
 written in Java. Communication is done via REST API and WebSocket. A web-based client is currently in development.
+
+## Other Public Repos
+* [tweeter](https://github.com/prattnj/tweeter) - A social media app for Android whose purpose is to demonstrate good software design principles and patterns.
+* [fms-go](https://github.com/prattnj/fms-go) - The backend portion of a service that generates articial family history information. Originally written in Java for a software engineering class at BYU, I reimplemented this project to learn the Go language.
+* [mm-analytics](https://github.com/mm-analytics) - An Android widget for personal use. Updates are executed periodically that show me various analytics and status updates for [music-metrics](https://github.com/prattnj/music-metrics).
+* [wordle-bot](https://github.com/prattnj/wordle-bot) - A lightweight Java CLI program that solves Wordle in as few guesses as possible. As of now, it is only mostly functional.
+* [gh-hq](https://github.com/prattnj/gh-hq) - A simple static webpage that displays a slideshow of various pictures of my friends and I up to our usual shenanigans.
