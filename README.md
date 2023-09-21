@@ -3,8 +3,20 @@
 Noah Pratt
 
 ## Contents
+* [Skills](#skills)
 * [Projects](#projects)
 * [Other repos](#other-public-repos)
+
+## Skills
+* Java | Object-oriented programming
+* JavaScript | React | Node.js
+* Python | Deep Neural Nets
+* Android Apps & Widgets
+* SQL | MySQL
+* Self-hosting
+* 3D Design | CAD Software
+* AWS | Microsoft Azure
+* Go
 
 ## Projects
 
