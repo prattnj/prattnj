@@ -2,6 +2,10 @@
 
 Noah Pratt
 
+## Contents
+* [Projects](#projects)
+* [Other repos](#other-public-repos)
+
 ## Projects
 
 <img src="mm.png" width="500px" />
