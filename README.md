@@ -11,7 +11,7 @@ Noah Pratt
 * Java | Object-oriented programming
 * JavaScript | React | Node.js
 * Python | Deep Neural Nets
-* Android Apps & Widgets
+* Android Apps & Widgets | Kotlin
 * SQL | MySQL
 * Self-hosting
 * 3D Design | CAD Software
@@ -55,6 +55,7 @@ good software design principles and modern technologies to implement a fully fun
 written in Java. Communication is done via REST API and WebSocket. A web-based client is currently in development.
 
 ## Other Public Repos
+* [fact-fiesta](https://factfiesta.noahpratt.com) - A service written in Go that provides a random fun fact. Includes an Android app written in Kotlin, web UI is in development.
 * [tweeter](https://github.com/prattnj/tweeter) - A social media app for Android whose purpose is to demonstrate good software design principles and patterns.
 * [fms-go](https://github.com/prattnj/fms-go) - The backend portion of a service that generates articial family history information. Originally written in Java for a software engineering class at BYU, I reimplemented this project to learn the Go language.
 * [mm-analytics](https://github.com/mm-analytics) - An Android widget for personal use. Updates are executed periodically that show me various analytics and status updates for [music-metrics](https://github.com/prattnj/music-metrics).
