@@ -58,7 +58,7 @@ Additionally, uses Vite as a JavaScript build tool and other basic development t
 Created by professors and TA's including myself as a project for the students of a Software Engineering class at BYU. Uses
 good software design principles and modern technologies to implement a fully functional chess server and client, both
 written in Java. Communication is done via REST API and WebSocket. A web-based client is currently in development. [prattnj/chess2024](https://github.com/prattnj/chess2024)
-is a variation (built for the purpose of testing [softwareconstruction/autograder](https://github.com/softwareconstruction/autograder) of the original repo with similar features.
+is a variation (built for the purpose of testing [softwareconstruction/autograder](https://github.com/softwareconstruction240/autograder) of the original repo with similar features.
 
 <img src="chess.png" width="300px" />
 
