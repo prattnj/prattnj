@@ -53,15 +53,16 @@ Additionally, uses Vite as a JavaScript build tool and other basic development t
 <img src="np.png" width="500px" />
 
 ## Chess Application
-#### Repo: private for academic integrity, email for access
+#### Repo: [prattnj/chess](https://github.com/prattnj/chess)
 #### Website: in development
 Created by professors and TA's including myself as a project for the students of a Software Engineering class at BYU. Uses
 good software design principles and modern technologies to implement a fully functional chess server and client, both
-written in Java. Communication is done via REST API and WebSocket. A web-based client is currently in development.
+written in Java. Communication is done via REST API and WebSocket. A web-based client is currently in development. [prattnj/chess2024](https://github.com/prattnj/chess2024)
+is a variation (built for the purpose of testing [softwareconstruction/autograder](https://github.com/softwareconstruction/autograder) of the original repo with similar features.
 
 <img src="chess.png" width="300px" />
 
-# Other Public Repos
+# Other Public Repos (not including forks)
 * [fact-fiesta](https://github.com/prattnj/fact-fiesta) - A service written in Go that provides a random fun fact. Includes an Android app written in Kotlin, web UI is in development.
 * [tts-dataset](https://github.com/prattnj/tts-dataset) - See [Vox Box](#vox-box) above.
 * [tweeter](https://github.com/prattnj/tweeter) - A social media app for Android whose purpose is to demonstrate good software design principles and patterns.
