@@ -9,7 +9,7 @@ Noah Pratt
 
 # Skills
 * Java | Object-oriented programming
-* JavaScript | React | Node.js
+* JavaScript | React | Vue | Node.js
 * Python | Deep Learning
 * Android Apps & Widgets | Kotlin
 * SQL | MySQL
@@ -17,6 +17,7 @@ Noah Pratt
 * 3D Design | CAD Software
 * AWS | Microsoft Azure
 * Go
+* PWAs | Next.js
 
 # Projects
 
