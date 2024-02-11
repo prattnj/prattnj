@@ -22,7 +22,7 @@ Noah Pratt
 # Projects
 
 ## Music Metrics
-#### Repo: [prattnj/music-metrics](https://github.com/prattnj/music-metrics)
+#### Repo: Private
 #### Website: [musicmetrics.app](https://musicmetrics.app)
 A web application that tracks a user's Spotify listening and computes interesting statistics from it. Backend is written in Go, using
 MySQL with good database design principles to store listening history as well as song and album metadata.
