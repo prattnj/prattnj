@@ -54,12 +54,12 @@ Additionally, uses Vite as a JavaScript build tool and other basic development t
 <img src="np.png" width="500px" />
 
 ## Chess Application
-#### Repo: [prattnj/chess](https://github.com/prattnj/chess)
+#### Repo: Private for academic integrity
 #### Website: in development
 Created by professors and TA's including myself as a project for the students of a Software Engineering class at BYU. Uses
 good software design principles and modern technologies to implement a fully functional chess server and client, both
 written in Java. Communication is done via REST API and WebSocket. A web-based client is currently in development. [prattnj/chess2024](https://github.com/prattnj/chess2024)
-is a variation (built for the purpose of testing [softwareconstruction240/autograder](https://github.com/softwareconstruction240/autograder) of the original repo with similar features.
+is a public variation (built for the purpose of testing [softwareconstruction240/autograder](https://github.com/softwareconstruction240/autograder) of the original repo with similar features.
 
 <img src="chess.png" width="300px" />
 
@@ -68,6 +68,7 @@ is a variation (built for the purpose of testing [softwareconstruction240/autogr
 * [tts-dataset](https://github.com/prattnj/tts-dataset) - See [Vox Box](#vox-box) above.
 * [tweeter](https://github.com/prattnj/tweeter) - A social media app for Android whose purpose is to demonstrate good software design principles and patterns.
 * [fms-go](https://github.com/prattnj/fms-go) - The backend portion of a service that generates articial family history information. Originally written in Java for a software engineering class at BYU, I reimplemented this project to learn the Go language.
+* [js-evaluation](https://github.com/prattnj/js-evaluation) - A parser/evaluator of JavaScript written in Go. Only evaluates a subset of the JS language and utilizes the Acorn parser.
 * [mm-analytics](https://github.com/mm-analytics) - An Android widget for personal use. Updates are executed periodically that show me various analytics and status updates for [music-metrics](https://github.com/prattnj/music-metrics).
 * [wordle](https://github.com/prattnj/wordle) - A collection of programs in Python including Wordle itself, a Wordle solver, and a Wordle bot. Still in development.
 * [wordle-bot](https://github.com/prattnj/wordle-bot) - A lightweight Java CLI program that solves Wordle in as few guesses as possible. As of now, it is only mostly functional.
