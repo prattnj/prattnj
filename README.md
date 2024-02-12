@@ -9,7 +9,7 @@ Noah Pratt
 
 # Skills
 * Java | Object-oriented programming
-* JavaScript | React | Vue | Node.js
+* JavaScript | TypeScript | React | Vue | Node.js
 * Python | Deep Learning
 * Android Apps & Widgets | Kotlin
 * SQL | MySQL
