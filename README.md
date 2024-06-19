@@ -70,7 +70,7 @@ written in Java. Communication is done via REST API and WebSocket. A fairly stro
 * [tweeter](https://github.com/prattnj/tweeter) - A social media app for Android whose purpose is to demonstrate good software design principles and patterns.
 * [fms-go](https://github.com/prattnj/fms-go) - The backend portion of a service that generates articial family history information. Originally written in Java for a software engineering class at BYU, I reimplemented this project to learn the Go language.
 * [js-evaluation](https://github.com/prattnj/js-evaluation) - A parser/evaluator of JavaScript written in Go (with another implementation in Ruby). Evaluates a common subset of the JS language and utilizes the Acorn parser.
-* [type-checker](https://github.com/prattnj/type-checker) - Implementation of a simple programming language (it's simiar to [Plait](https://docs.racket-lang.org/plait/)).
+* [type-checker](https://github.com/prattnj/type-checker) - Implementation of a simple programming language (it's similar to [Plait](https://docs.racket-lang.org/plait/)).
 * [wordle](https://github.com/prattnj/wordle) - A collection of programs in Python including Wordle itself, a Wordle solver, and a Wordle bot. Still in development.
 * [wordle-bot](https://github.com/prattnj/wordle-bot) - A lightweight Java CLI program that solves Wordle in as few guesses as possible. As of now, it is only mostly functional.
 * [gh-hq](https://github.com/prattnj/gh-hq) - A simple static webpage that displays a slideshow of various pictures of my friends and I up to our usual shenanigans.
