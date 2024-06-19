@@ -11,12 +11,12 @@ Noah Pratt
 * Java | Object-oriented programming
 * JavaScript | TypeScript | React | Vue | Node.js
 * Python | Deep Learning
+* Go | C-based languages | Ruby
 * Android Apps & Widgets | Kotlin
 * SQL | MySQL
 * Self-hosting
 * 3D Design | CAD Software
 * AWS | Microsoft Azure
-* Go
 * PWAs | Next.js
 
 # Projects
@@ -54,22 +54,22 @@ Additionally, uses Vite as a JavaScript build tool and other basic development t
 <img src="np.png" width="500px" />
 
 ## Chess Application
-#### Repo: Private for academic integrity
+#### Repo: [prattnj/chess2024](https://github.com/prattnj/chess2024)
 #### Website: in development
 Created by professors and TA's including myself as a project for the students of a Software Engineering class at BYU. Uses
 good software design principles and modern technologies to implement a fully functional chess server and client, both
-written in Java. Communication is done via REST API and WebSocket. A web-based client is currently in development. [prattnj/chess2024](https://github.com/prattnj/chess2024)
-is a public variation (built for the purpose of testing [softwareconstruction240/autograder](https://github.com/softwareconstruction240/autograder) of the original repo with similar features.
+written in Java. Communication is done via REST API and WebSocket. A fairly strong AI chess engine is also included.
 
 <img src="chess.png" width="300px" />
 
 # Other Public Repos (not including forks)
 * [fact-fiesta](https://github.com/prattnj/fact-fiesta) - A service written in Go that provides a random fun fact. Includes an Android app written in Kotlin, web UI is in development.
 * [tts-dataset](https://github.com/prattnj/tts-dataset) - See [Vox Box](#vox-box) above.
+* [bingo](https://github.com/prattnj/bingo) - A full stack application to create 5x5 boards and check off squares, with BINGO being the goal. Originally built for the purpose of goal setting. Front end still in development.
 * [tweeter](https://github.com/prattnj/tweeter) - A social media app for Android whose purpose is to demonstrate good software design principles and patterns.
 * [fms-go](https://github.com/prattnj/fms-go) - The backend portion of a service that generates articial family history information. Originally written in Java for a software engineering class at BYU, I reimplemented this project to learn the Go language.
-* [js-evaluation](https://github.com/prattnj/js-evaluation) - A parser/evaluator of JavaScript written in Go. Only evaluates a subset of the JS language and utilizes the Acorn parser.
-* [mm-analytics](https://github.com/mm-analytics) - An Android widget for personal use. Updates are executed periodically that show me various analytics and status updates for [music-metrics](https://github.com/prattnj/music-metrics).
+* [js-evaluation](https://github.com/prattnj/js-evaluation) - A parser/evaluator of JavaScript written in Go (with another implementation in Ruby). Evaluates a common subset of the JS language and utilizes the Acorn parser.
+* [type-checker](https://github.com/prattnj/type-checker) - Implementation of a simple programming language (it's simiar to [Plait](https://docs.racket-lang.org/plait/)).
 * [wordle](https://github.com/prattnj/wordle) - A collection of programs in Python including Wordle itself, a Wordle solver, and a Wordle bot. Still in development.
 * [wordle-bot](https://github.com/prattnj/wordle-bot) - A lightweight Java CLI program that solves Wordle in as few guesses as possible. As of now, it is only mostly functional.
 * [gh-hq](https://github.com/prattnj/gh-hq) - A simple static webpage that displays a slideshow of various pictures of my friends and I up to our usual shenanigans.
