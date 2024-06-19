@@ -62,7 +62,8 @@ written in Java. Communication is done via REST API and WebSocket. A fairly stro
 
 <img src="chess.png" width="300px" />
 
-# Other Public Repos (not including forks)
+# Other Public Repos
+(this repository is not included, neither are forks)
 * [fact-fiesta](https://github.com/prattnj/fact-fiesta) - A service written in Go that provides a random fun fact. Includes an Android app written in Kotlin, web UI is in development.
 * [tts-dataset](https://github.com/prattnj/tts-dataset) - See [Vox Box](#vox-box) above.
 * [bingo](https://github.com/prattnj/bingo) - A full stack application to create 5x5 boards and check off squares, with BINGO being the goal. Originally built for the purpose of goal setting. Front end still in development.
